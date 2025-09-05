@@ -1,8 +1,8 @@
 Hi, I'm Awab!
 
-- Full-time **Software Engineering Student** at XXX.
+- Full-time **Software Engineering Student** .
 - Front-End Developer - Freelance .
-- I create unique **3D Web Pages** to stay consistent.
+- I create various **Web Pages** to stay consistent.
 
 
 
