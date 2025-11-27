@@ -48,8 +48,8 @@ Git · GitHub · VS Code · Vercel · Figma
 
 ### 📊 GitHub Stats
 
-![Awab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Awab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AwabIzzeldin&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AwabIzzeldin&layout=compact&theme=radical)
 
 ---
 
