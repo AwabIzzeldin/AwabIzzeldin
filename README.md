@@ -6,6 +6,7 @@ crafting beautiful, responsive, and fast web experiences.
 ### What I do
 - Build websites for real clients & small businesses ✨
 - Focus on UI/UX, animations, and clean React + Next.js design systems
+- Develop with performance and responsive design in mind
 - Apply modern best practices: Git, Vercel deployment, component-driven UI
 
 ### Currently learning
@@ -15,6 +16,8 @@ crafting beautiful, responsive, and fast web experiences.
 📌 Always improving—one project at a time!
 
 
+![Awab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AwabIzzeldin&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AwabIzzeldin&layout=compact&theme=radical)
 
 
 # 💻 Tech Stack:
