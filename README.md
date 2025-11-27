@@ -1,7 +1,7 @@
 Hi, I'm Awab!
 
 - **Software Engineering Student**.
-- Front-End Developer - Freelancer .
+- Front-End Developer // Freelancer .
 - I create various **Websites** to stay consistent.
 - Currently learning more about Data Structures & Algorithms.
 
