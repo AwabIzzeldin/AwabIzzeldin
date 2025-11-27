@@ -29,7 +29,7 @@ HTML · CSS · JavaScript · React · Next.js · Tailwind CSS
 Node.js · Express · MySQL  
 
 **Tools & Workflow**  
-Git · GitHub · VS Code · Vercel · Figma  
+Git · GitHub · VS Code · Vercel   
 
 ---
 
