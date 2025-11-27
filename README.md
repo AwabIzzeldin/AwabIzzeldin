@@ -1,9 +1,18 @@
-Hi, I'm Awab!
+# Hi, I'm Awab!
 
-- **Software Engineering Student**.
-- Front-End Developer // Freelancer .
-- I create various **Websites** to stay consistent.
-- Currently learning more about Data Structures & Algorithms.
+I'm a Front-End Developer and Software Engineering student passionate about 
+crafting beautiful, responsive, and fast web experiences.
+
+### What I do
+- Build websites for real clients & small businesses ✨
+- Focus on UI/UX, animations, and clean React + Next.js design systems
+- Apply modern best practices: Git, Vercel deployment, component-driven UI
+
+### Currently learning
+- Data Structures & Algorithms
+- Scalable full-stack architecture
+
+📌 Always improving—one project at a time!
 
 
 
