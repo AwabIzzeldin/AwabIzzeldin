@@ -55,7 +55,7 @@ Git · GitHub · VS Code · Vercel · Figma
 
 ### 📫 Contact
 
-📧 Email: **awab.izzeldin@gmail.com**
+📧 Email: **Coming soon**  
 🌐 Portfolio: **Coming soon**  
 🚀 WebCrafts Studio: **Coming soon**
 
