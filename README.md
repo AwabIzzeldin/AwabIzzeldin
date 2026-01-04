@@ -14,9 +14,8 @@ crafting beautiful, responsive, and fast web experiences.
 ---
 
 ### 📚 Currently Learning
-- Data Structures & Algorithms
 - Scalable full-stack architecture
-- Advanced UI animation patterns (Framer Motion)
+  
 
 ---
 
